@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diegoestebanazo&theme=buefy&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diegoestebanazo&bg_color=00000000&color=2899F7&line=2899F7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
